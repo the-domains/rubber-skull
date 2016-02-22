@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rubber Skull]]></title>
         <description><![CDATA[Rubber Skull]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rubber-skull/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 21:05:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 21:05:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rubber-skull/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28393998-4270-424b-aa1b-c795ea8bb010.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/rubber-skull/b6cca431-eeb3-4b6e-97fd-f4caf961ec0d/index.html</link>
+            <guid isPermaLink="false">b6cca431-eeb3-4b6e-97fd-f4caf961ec0d</guid>
+            <pubDate>Mon, 22 Feb 2016 21:05:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfba2fe8fbb462c6a69db0133db65abb66dd5cbd.jpg" alt="The original cover photo" title="">]]></description>
-            <link>undefinedddc4f153-5d9b-45c7-8c13-f2452563d774/index.html</link>
+            <link>https://thegrid.ai/rubber-skull/ddc4f153-5d9b-45c7-8c13-f2452563d774/index.html</link>
             <guid isPermaLink="false">ddc4f153-5d9b-45c7-8c13-f2452563d774</guid>
             <pubDate>Mon, 22 Feb 2016 21:05:02 GMT</pubDate>
         </item>
