@@ -1,6 +1,6 @@
 name: Rubber Skull
 favicon: null
-layout_spectrum: 0.5166698200628161
+layout_spectrum: 0.49573
 typography_spectrum: 0.24799415306188166
 title: Rubber Skull
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#ffffff'
+    - '#0e0809'
+    - '#52534e'
+    - '#8b918c'
+    - '#b5b7ba'
   brandStrength: 0.5893178570549935
   lightness: 0.5251568332314491
   saturation: 0.16602348652668297
