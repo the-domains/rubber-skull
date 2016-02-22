@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rubber Skull]]></title>
+        <description><![CDATA[Rubber Skull]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 21:05:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfba2fe8fbb462c6a69db0133db65abb66dd5cbd.jpg" alt="The original cover photo" title="">]]></description>
+            <link>undefinedddc4f153-5d9b-45c7-8c13-f2452563d774/index.html</link>
+            <guid isPermaLink="false">ddc4f153-5d9b-45c7-8c13-f2452563d774</guid>
+            <pubDate>Mon, 22 Feb 2016 21:05:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
