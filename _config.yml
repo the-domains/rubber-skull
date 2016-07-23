@@ -1,29 +1,41 @@
-name: Rubber Skull
-favicon: null
-layout_spectrum: 0.00071
-typography_spectrum: 0
 title: Rubber Skull
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.625
+  brandStrength: 0.1875
+  rhythmicContrast: 0.75
   brandColors:
     - '#ffffff'
     - '#0e0809'
     - '#52534e'
     - '#8b918c'
     - '#b5b7ba'
-  brandStrength: 0.1875
   lightness: 0.4375
-  saturation: 0.625
-  rhythmicContrast: 0.75
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Rubber Skull
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
+layout_spectrum: 0.1680851
