@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-31T19:32:02.594Z'
+datePublished: '2016-08-31T19:59:33.113Z'
 author: []
 via: {}
-dateModified: '2016-08-31T19:27:27.214Z'
+dateModified: '2016-08-31T19:34:41.014Z'
 title: ''
 publisher: {}
 description: >-
   “Just the other day, someone I didn’t know came up to me at the grocery store
   and said ‘Super Fly and Squirt Gun’. It’s nice to be remembered. - Aron
   Gagliardo
-starred: false
 sourcePath: _posts/2016-08-31-just-the-other-day-someone-i-didnt-know-came-up-to-me-at.md
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
