@@ -4,7 +4,7 @@
         <description><![CDATA[Rubber Skull]]></description>
         <link>https://thegrid.ai/rubber-skull/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 20:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 20:50:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rubber-skull/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/rubber-skull/ea03ee4d-ebc2-4999-ba74-5cf0dcea7108/index.html</link>
             <guid isPermaLink="false">ea03ee4d-ebc2-4999-ba74-5cf0dcea7108</guid>
             <pubDate>Wed, 31 Aug 2016 20:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa53ef99-0820-4bde-a154-9e328c70ad6c.jpg">]]></description>
-            <link>https://thegrid.ai/rubber-skull/just-the-other-day-someone-i-didnt-know-came-up-to-me-at/index.html</link>
-            <guid isPermaLink="false">784b54e7-019e-44f3-87a4-8e0fd794e3c9</guid>
-            <pubDate>Wed, 31 Aug 2016 20:46:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,6 +54,13 @@
             <link>https://thegrid.ai/rubber-skull/b6cca431-eeb3-4b6e-97fd-f4caf961ec0d/index.html</link>
             <guid isPermaLink="false">b6cca431-eeb3-4b6e-97fd-f4caf961ec0d</guid>
             <pubDate>Wed, 13 Apr 2016 13:27:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa53ef99-0820-4bde-a154-9e328c70ad6c.jpg">]]></description>
+            <link>https://thegrid.ai/rubber-skull/just-the-other-day-someone-i-didnt-know-came-up-to-me-at/index.html</link>
+            <guid isPermaLink="false">784b54e7-019e-44f3-87a4-8e0fd794e3c9</guid>
+            <pubDate>Wed, 31 Aug 2016 20:50:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
