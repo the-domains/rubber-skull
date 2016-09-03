@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-31T19:59:33.113Z'
+datePublished: '2016-08-31T20:05:41.003Z'
 author: []
 via: {}
-dateModified: '2016-08-31T19:34:41.014Z'
+dateModified: '2016-08-31T20:05:40.768Z'
 title: ''
 publisher: {}
 description: >-
@@ -10,7 +10,7 @@ description: >-
   and said ‘Super Fly and Squirt Gun’. It’s nice to be remembered. - Aron
   Gagliardo
 sourcePath: _posts/2016-08-31-just-the-other-day-someone-i-didnt-know-came-up-to-me-at.md
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
