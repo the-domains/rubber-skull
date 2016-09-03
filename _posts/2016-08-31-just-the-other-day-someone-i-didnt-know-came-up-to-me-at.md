@@ -1,15 +1,12 @@
 ---
-datePublished: '2016-08-31T20:05:41.003Z'
+datePublished: '2016-08-31T20:11:20.857Z'
+sourcePath: _posts/2016-08-31-just-the-other-day-someone-i-didnt-know-came-up-to-me-at.md
 author: []
 via: {}
-dateModified: '2016-08-31T20:05:40.768Z'
+dateModified: '2016-08-31T20:11:20.436Z'
 title: ''
 publisher: {}
-description: >-
-  “Just the other day, someone I didn’t know came up to me at the grocery store
-  and said ‘Super Fly and Squirt Gun’. It’s nice to be remembered. - Aron
-  Gagliardo
-sourcePath: _posts/2016-08-31-just-the-other-day-someone-i-didnt-know-came-up-to-me-at.md
+description: The Giant Restored & Rubber What?
 starred: true
 inFeed: true
 hasPage: true
@@ -20,8 +17,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa53ef99-0820-4bde-a154-9e328c70ad6c.jpg)
-
-"Just the other day, someone I didn't know came up to me at the grocery store and said 'Super Fly and Squirt Gun'. It's nice to be remembered. - Aron Gagliardo
 
 **The Giant Restored & Rubber What?**
 
