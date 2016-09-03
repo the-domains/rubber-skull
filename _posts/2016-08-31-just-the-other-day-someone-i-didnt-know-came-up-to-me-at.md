@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-31T20:36:41.996Z'
+datePublished: '2016-08-31T20:44:33.567Z'
 sourcePath: _posts/2016-08-31-just-the-other-day-someone-i-didnt-know-came-up-to-me-at.md
 author: []
 via: {}
-dateModified: '2016-08-31T20:36:41.713Z'
+dateModified: '2016-08-31T20:44:33.247Z'
 title: ''
 publisher: {}
 description: The Giant Restored & Rubber What?
@@ -20,6 +20,6 @@ _type: Article
 
 **The Giant Restored & Rubber What?**
 
-On the original printings of Rubber Skull the photo came out extremely dark and it was difficult to see any detail. Our good friend Brandan Pierard made us a huge fold out booklet for free and he saved us hundreds of dollars. This is the cover photo re-scanned without filters.
+On the original printings of Rubber Skull the photo came out extremely dark and it was difficult to see any detail. Our good friend Brandan Pierard made us a huge fold out booklet for free and he saved us hundreds of dollars. This is the cover photo re-scanned without filters. 
 
 Honestly, I was completely unaware, at least consciously, of the Beatles album Rubber Soul at the time I came up with the title. I remember we used to say someone was a "rubber head" when they did something dumb. The covers even look similar with the trees in the background and logo in upper left. Subconscious theft on my part? Maybe.
