@@ -1,5 +1,34 @@
-title: Rubber Skull
-purpose: []
+typography_spectrum: 0
+color:
+  saturation: 0.625
+  brandStrength: 0.1875
+  rhythmicContrast: 0.75
+  brandColors:
+    - '#ffffff'
+    - '#0e0809'
+    - '#52534e'
+    - '#8b918c'
+    - '#b5b7ba'
+  lightness: 0.4375
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.1680851
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Rubber Skull
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Menu
+    id: 6eb372f3-65a3-4627-a33d-90aa6777d09b
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.625
-  brandStrength: 0.1875
-  rhythmicContrast: 0.75
-  brandColors:
-    - '#ffffff'
-    - '#0e0809'
-    - '#52534e'
-    - '#8b918c'
-    - '#b5b7ba'
-  lightness: 0.4375
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Rubber Skull
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 0.1680851
+title: Rubber Skull
+purpose: []
