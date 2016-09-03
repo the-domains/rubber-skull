@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-31T20:53:39.654Z'
+datePublished: '2016-08-31T21:05:30.887Z'
 sourcePath: _posts/2016-08-31-just-the-other-day-someone-i-didnt-know-came-up-to-me-at.md
 author: []
 via: {}
-dateModified: '2016-08-31T20:53:27.636Z'
+dateModified: '2016-08-31T21:05:30.315Z'
 title: ''
 publisher: {}
 description: The Giant Restored & Rubber What?
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
