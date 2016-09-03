@@ -30,7 +30,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: Menu
+  - name: Music
     id: 6eb372f3-65a3-4627-a33d-90aa6777d09b
     type: content
 favicon: null
