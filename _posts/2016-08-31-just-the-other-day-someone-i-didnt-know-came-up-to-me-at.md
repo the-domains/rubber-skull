@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-31T21:24:42.670Z'
+datePublished: '2016-08-31T21:25:25.075Z'
 sourcePath: _posts/2016-08-31-just-the-other-day-someone-i-didnt-know-came-up-to-me-at.md
 author: []
 via: {}
-dateModified: '2016-08-31T21:24:42.345Z'
+dateModified: '2016-08-31T21:25:24.740Z'
 title: ''
 publisher: {}
 description: ''
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
